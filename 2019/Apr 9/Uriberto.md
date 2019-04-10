@@ -1,1 +1,1 @@
-This is my sample file. Lorum ipsum, mother forkers.
+This is my sample file. Lorum ipsum, y'all.
